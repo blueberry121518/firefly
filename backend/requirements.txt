@@ -1,0 +1,15 @@
+# Core Web Framework
+fastapi
+uvicorn[standard]
+
+# Database
+sqlalchemy[asyncio]
+asyncpg
+redis
+
+# Data Validation & Config
+pydantic
+python-dotenv
+
+# Fetch.ai Agents
+fetch-ai-uagents
