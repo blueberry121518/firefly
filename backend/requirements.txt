@@ -1,15 +1,41 @@
 # Core Web Framework
 fastapi
 uvicorn[standard]
+websockets
 
 # Database
 sqlalchemy[asyncio]
 asyncpg
 redis
+supabase
 
 # Data Validation & Config
 pydantic
+pydantic-settings
 python-dotenv
+psycopg2-binary
 
 # Fetch.ai Agents
-fetch-ai-uagents
+uagents
+
+# External APIs
+vapi-python
+openai
+google-generativeai
+httpx
+
+# Kubernetes Orchestration
+kubernetes
+
+# RAG and Intelligence Layer
+langchain
+langchain-openai
+langchain-google-genai
+supabase-client
+pgvector
+psycopg2-binary
+python-dotenv
+
+# Testing
+pytest
+pytest-asyncio

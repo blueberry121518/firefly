@@ -3,11 +3,13 @@ from sqlalchemy.orm import sessionmaker
 from app.core.config import settings
 from typing import AsyncGenerator
 
-# Create async engine
+# Create async engine for Supabase PostgreSQL
 engine = create_async_engine(
-    settings.POSTGRES_URL,
+    settings.DATABASE_URL,
     echo=True,  # Set to False in production
-    future=True
+    future=True,
+    pool_pre_ping=True,  # Verify connections before use
+    pool_recycle=300,    # Recycle connections every 5 minutes
 )
 
 # Create async session factory

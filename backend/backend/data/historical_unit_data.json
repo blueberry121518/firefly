@@ -1,0 +1,1387 @@
+{
+  "generated_at": "2025-09-28T07:53:47.773329",
+  "units": [
+    {
+      "unit_id": "police_01",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.314974,
+            -83.832668
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:08.773175",
+          "status": "enroute",
+          "location": [
+            42.226753,
+            -83.717077
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:51.773175",
+          "status": "available",
+          "location": [
+            42.257919,
+            -83.795142
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.204185,
+        -83.766175
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_02",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.310578,
+            -83.676865
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:50.773175",
+          "status": "enroute",
+          "location": [
+            42.234754,
+            -83.767468
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:47.773175",
+          "status": "enroute",
+          "location": [
+            42.228094,
+            -83.815776
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:27.773175",
+          "status": "available",
+          "location": [
+            42.317887,
+            -83.773803
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:53.773175",
+          "status": "available",
+          "location": [
+            42.217926,
+            -83.659577
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.31102,
+        -83.678078
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_03",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.221767,
+            -83.772184
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:43.773175",
+          "status": "enroute",
+          "location": [
+            42.322024,
+            -83.762077
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:23.773175",
+          "status": "available",
+          "location": [
+            42.265351,
+            -83.684749
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:17.773175",
+          "status": "on_scene",
+          "location": [
+            42.233544,
+            -83.732861
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.337895,
+        -83.731423
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_04",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.328941,
+            -83.78607
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:04.773175",
+          "status": "on_scene",
+          "location": [
+            42.30967,
+            -83.741116
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:36.773175",
+          "status": "on_scene",
+          "location": [
+            42.346723,
+            -83.671434
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.288313,
+        -83.818313
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_05",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.302773,
+            -83.767662
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:25.773175",
+          "status": "enroute",
+          "location": [
+            42.332044,
+            -83.746155
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:59.773175",
+          "status": "available",
+          "location": [
+            42.347608,
+            -83.805015
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.291038,
+        -83.727375
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_06",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.341905,
+            -83.793064
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:23.773175",
+          "status": "on_scene",
+          "location": [
+            42.331144,
+            -83.832535
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:25.773175",
+          "status": "enroute",
+          "location": [
+            42.337329,
+            -83.849694
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.321099,
+        -83.717698
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_07",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.282194,
+            -83.664698
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:07.773175",
+          "status": "available",
+          "location": [
+            42.309097,
+            -83.678277
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:54.773175",
+          "status": "on_scene",
+          "location": [
+            42.234937,
+            -83.823539
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:24.773175",
+          "status": "available",
+          "location": [
+            42.341179,
+            -83.748824
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:42.773175",
+          "status": "available",
+          "location": [
+            42.292485,
+            -83.657693
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.290095,
+        -83.756206
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_08",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.344093,
+            -83.651272
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:56.773175",
+          "status": "available",
+          "location": [
+            42.297895,
+            -83.720534
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:58.773175",
+          "status": "enroute",
+          "location": [
+            42.291492,
+            -83.718649
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:24.773175",
+          "status": "on_scene",
+          "location": [
+            42.286458,
+            -83.722267
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:19.773175",
+          "status": "available",
+          "location": [
+            42.272053,
+            -83.685435
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.209242,
+        -83.701648
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_09",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.327401,
+            -83.798654
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:20.773175",
+          "status": "enroute",
+          "location": [
+            42.344102,
+            -83.77693
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:08.773175",
+          "status": "available",
+          "location": [
+            42.253636,
+            -83.760802
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:03.773175",
+          "status": "available",
+          "location": [
+            42.228399,
+            -83.66053
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.253334,
+        -83.717543
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "police_10",
+      "type": "POLICE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.208772,
+            -83.698283
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:47.773175",
+          "status": "on_scene",
+          "location": [
+            42.34497,
+            -83.654706
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:52.773175",
+          "status": "available",
+          "location": [
+            42.25013,
+            -83.784948
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:30.773175",
+          "status": "enroute",
+          "location": [
+            42.249383,
+            -83.779254
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.235126,
+        -83.839072
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_01",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.214459,
+            -83.789558
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:56.773175",
+          "status": "available",
+          "location": [
+            42.261096,
+            -83.848797
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:48.773175",
+          "status": "available",
+          "location": [
+            42.212913,
+            -83.650357
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:18.773175",
+          "status": "enroute",
+          "location": [
+            42.204374,
+            -83.69722
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:16.773175",
+          "status": "available",
+          "location": [
+            42.229906,
+            -83.683212
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.306777,
+        -83.805711
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_02",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.201792,
+            -83.758824
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:52.773175",
+          "status": "on_scene",
+          "location": [
+            42.329365,
+            -83.835622
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:29.773175",
+          "status": "enroute",
+          "location": [
+            42.321692,
+            -83.653793
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:36.773175",
+          "status": "on_scene",
+          "location": [
+            42.209003,
+            -83.795248
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:30.773175",
+          "status": "on_scene",
+          "location": [
+            42.213433,
+            -83.843931
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.279216,
+        -83.75573
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_03",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.278216,
+            -83.699744
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:40.773175",
+          "status": "available",
+          "location": [
+            42.213509,
+            -83.699994
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:14.773175",
+          "status": "enroute",
+          "location": [
+            42.275332,
+            -83.815841
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:40.773175",
+          "status": "on_scene",
+          "location": [
+            42.321337,
+            -83.762114
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:38.773175",
+          "status": "available",
+          "location": [
+            42.289485,
+            -83.798057
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.218673,
+        -83.798944
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_04",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.237207,
+            -83.734897
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:22.773175",
+          "status": "enroute",
+          "location": [
+            42.347494,
+            -83.71893
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:09.773175",
+          "status": "enroute",
+          "location": [
+            42.272278,
+            -83.847285
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:53.773175",
+          "status": "enroute",
+          "location": [
+            42.272002,
+            -83.653879
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:22.773175",
+          "status": "enroute",
+          "location": [
+            42.286918,
+            -83.848025
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.202512,
+        -83.70784
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_05",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.331595,
+            -83.734672
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:58.773175",
+          "status": "enroute",
+          "location": [
+            42.269079,
+            -83.681585
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:36.773175",
+          "status": "on_scene",
+          "location": [
+            42.211134,
+            -83.793054
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:49.773175",
+          "status": "on_scene",
+          "location": [
+            42.217896,
+            -83.772164
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.290983,
+        -83.66562
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_06",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.327188,
+            -83.696133
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:43.773175",
+          "status": "on_scene",
+          "location": [
+            42.239447,
+            -83.8358
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:46.773175",
+          "status": "available",
+          "location": [
+            42.281082,
+            -83.744628
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.264717,
+        -83.756441
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_07",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.283628,
+            -83.727765
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:39.773175",
+          "status": "enroute",
+          "location": [
+            42.297925,
+            -83.744176
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:10.773175",
+          "status": "on_scene",
+          "location": [
+            42.239664,
+            -83.831721
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:40.773175",
+          "status": "enroute",
+          "location": [
+            42.208864,
+            -83.791325
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.250213,
+        -83.658825
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_08",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.294304,
+            -83.67441
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:41.773175",
+          "status": "on_scene",
+          "location": [
+            42.227968,
+            -83.70787
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:28.773175",
+          "status": "on_scene",
+          "location": [
+            42.325,
+            -83.753866
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.218196,
+        -83.698127
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_09",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.321177,
+            -83.744161
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:22.773175",
+          "status": "enroute",
+          "location": [
+            42.264589,
+            -83.721895
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:04.773175",
+          "status": "available",
+          "location": [
+            42.2853,
+            -83.707877
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.248741,
+        -83.831113
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "fire_10",
+      "type": "FIRE",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.216832,
+            -83.750447
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:25.773175",
+          "status": "enroute",
+          "location": [
+            42.342033,
+            -83.731323
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:37.773175",
+          "status": "on_scene",
+          "location": [
+            42.308284,
+            -83.715515
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.226291,
+        -83.674442
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_01",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.31778,
+            -83.773992
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:59.773175",
+          "status": "available",
+          "location": [
+            42.208214,
+            -83.699442
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:44.773175",
+          "status": "enroute",
+          "location": [
+            42.268176,
+            -83.724971
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:36.773175",
+          "status": "available",
+          "location": [
+            42.32365,
+            -83.845598
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.268332,
+        -83.83355
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_02",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.207586,
+            -83.780844
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:44.773175",
+          "status": "enroute",
+          "location": [
+            42.280783,
+            -83.76015
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:29.773175",
+          "status": "enroute",
+          "location": [
+            42.298907,
+            -83.686063
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:48.773175",
+          "status": "on_scene",
+          "location": [
+            42.231062,
+            -83.713664
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:29.773175",
+          "status": "available",
+          "location": [
+            42.286801,
+            -83.762454
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.219662,
+        -83.682353
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_03",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.333211,
+            -83.803171
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:32.773175",
+          "status": "on_scene",
+          "location": [
+            42.249142,
+            -83.652101
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:37.773175",
+          "status": "available",
+          "location": [
+            42.278592,
+            -83.742026
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:16.773175",
+          "status": "on_scene",
+          "location": [
+            42.345408,
+            -83.676301
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:12.773175",
+          "status": "on_scene",
+          "location": [
+            42.21955,
+            -83.793361
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.209037,
+        -83.71452
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_04",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.347583,
+            -83.714941
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:01.773175",
+          "status": "available",
+          "location": [
+            42.247743,
+            -83.819662
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:49.773175",
+          "status": "enroute",
+          "location": [
+            42.271248,
+            -83.79363
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.290918,
+        -83.752083
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_05",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.276942,
+            -83.761421
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:53.773175",
+          "status": "enroute",
+          "location": [
+            42.212025,
+            -83.698573
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:29.773175",
+          "status": "enroute",
+          "location": [
+            42.299222,
+            -83.743989
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.345154,
+        -83.840245
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_06",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.27236,
+            -83.781875
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:45.773175",
+          "status": "available",
+          "location": [
+            42.260192,
+            -83.679173
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:13.773175",
+          "status": "on_scene",
+          "location": [
+            42.306127,
+            -83.785647
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.335296,
+        -83.796744
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_07",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.231738,
+            -83.708423
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:42.773175",
+          "status": "on_scene",
+          "location": [
+            42.336288,
+            -83.733297
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:39.773175",
+          "status": "enroute",
+          "location": [
+            42.23946,
+            -83.77163
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.311066,
+        -83.728606
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_08",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.347123,
+            -83.726044
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:49:59.773175",
+          "status": "on_scene",
+          "location": [
+            42.225017,
+            -83.677506
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:50.773175",
+          "status": "enroute",
+          "location": [
+            42.221774,
+            -83.781255
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:22.773175",
+          "status": "available",
+          "location": [
+            42.299051,
+            -83.776408
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.243869,
+        -83.848099
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_09",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.334946,
+            -83.750664
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:23.773175",
+          "status": "enroute",
+          "location": [
+            42.21305,
+            -83.814444
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:26.773175",
+          "status": "on_scene",
+          "location": [
+            42.23673,
+            -83.673129
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:52:49.773175",
+          "status": "on_scene",
+          "location": [
+            42.208855,
+            -83.764098
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.245243,
+        -83.666462
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "ems_10",
+      "type": "EMS",
+      "status_history": [
+        {
+          "timestamp": "2025-09-28T07:48:47.773175",
+          "status": "available",
+          "location": [
+            42.27765,
+            -83.809267
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:50:00.773175",
+          "status": "available",
+          "location": [
+            42.322826,
+            -83.689431
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:51:29.773175",
+          "status": "available",
+          "location": [
+            42.236483,
+            -83.83894
+          ]
+        },
+        {
+          "timestamp": "2025-09-28T07:53:18.773175",
+          "status": "available",
+          "location": [
+            42.337229,
+            -83.748535
+          ]
+        }
+      ],
+      "current_status": "available",
+      "current_location": [
+        42.201898,
+        -83.742452
+      ],
+      "last_updated": "2025-09-28T07:48:47.773175"
+    },
+    {
+      "unit_id": "hospital_01",
+      "type": "HOSPITAL",
+      "name": "Hospital 01",
+      "location": [
+        42.298348,
+        -83.848664
+      ],
+      "er_capacity": 87,
+      "current_patients": 39,
+      "available_beds": 14,
+      "specialties": [
+        "Trauma",
+        "Burn Unit"
+      ],
+      "last_updated": "2025-09-28T07:53:47.773750"
+    },
+    {
+      "unit_id": "hospital_02",
+      "type": "HOSPITAL",
+      "name": "Hospital 02",
+      "location": [
+        42.278606,
+        -83.841723
+      ],
+      "er_capacity": 81,
+      "current_patients": 72,
+      "available_beds": 15,
+      "specialties": [
+        "Emergency Medicine",
+        "Pediatrics",
+        "Trauma"
+      ],
+      "last_updated": "2025-09-28T07:53:47.773760"
+    },
+    {
+      "unit_id": "hospital_03",
+      "type": "HOSPITAL",
+      "name": "Hospital 03",
+      "location": [
+        42.208998,
+        -83.758757
+      ],
+      "er_capacity": 44,
+      "current_patients": 62,
+      "available_beds": 14,
+      "specialties": [
+        "Trauma",
+        "Pediatrics"
+      ],
+      "last_updated": "2025-09-28T07:53:47.773765"
+    },
+    {
+      "unit_id": "hospital_04",
+      "type": "HOSPITAL",
+      "name": "Hospital 04",
+      "location": [
+        42.207575,
+        -83.676763
+      ],
+      "er_capacity": 76,
+      "current_patients": 7,
+      "available_beds": 25,
+      "specialties": [
+        "Burn Unit",
+        "Trauma"
+      ],
+      "last_updated": "2025-09-28T07:53:47.773770"
+    },
+    {
+      "unit_id": "hospital_05",
+      "type": "HOSPITAL",
+      "name": "Hospital 05",
+      "location": [
+        42.289003,
+        -83.715258
+      ],
+      "er_capacity": 58,
+      "current_patients": 69,
+      "available_beds": 22,
+      "specialties": [
+        "Pediatrics",
+        "Emergency Medicine"
+      ],
+      "last_updated": "2025-09-28T07:53:47.773774"
+    }
+  ]
+}
